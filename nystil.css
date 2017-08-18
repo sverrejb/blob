@@ -14,6 +14,10 @@ font-size: 16px !important;
 line-height: 1.5 !important;
 }
 
+h1 {
+  color: blue;
+}
+
 body {
   width: 100%;
   padding: 10px
@@ -31,6 +35,10 @@ img {
 
 #logo{
   width: 30%;
+}
+
+p {
+  color: #333333;
 }
 
 .read-more {
